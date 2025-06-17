@@ -14,5 +14,45 @@
 
 <h1 align= "center">Hello World, I'm Iara, be very welcome!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=C219CF&center=true&width=1000&height=100&lines=Aspiring+Full-Stack+Developer" alt="Typing SVG" /></a>
+<h3 align="left">👩‍💻  About Me</h3>
+<p align= "left"> I am from São Paulo, Brazil<br>
+🎓Computer Science Student<br> 
+⚡ Aspiring Full-Stack Developer with an interest in Web and Software Development<br> 
+🎯 Focused on HTML, CSS, JavaScript, C#, and Java<br> 
+✨ Creating projects to improve my skills and enter the job market in the best way possible.</p>
 
+<h3 align="left"> Technologies & Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+<h3 align="left">Project Repository</h3>
+<p>Frontend - Designs and interfaces with HTML, CSS, and JavaScript<br>
+Java - Projects and challenges in Java<br>
+C# - Projects and challenges in C#<br>
+SQL - Queries and databasesChallenges<br>
+Exercises to improve coding skillsLearning - Notes and mini-projects</p>
+
+<h3 align="left">Bootcamps and Programs</h3>
+<p>I am currently participating in the following bootcamps and fundraising programs:</p>
+
+<h3 align="left"> &#x1F4C8 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IarahSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IarahSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
