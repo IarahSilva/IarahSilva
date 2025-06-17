@@ -47,9 +47,6 @@ C# - Projects and challenges in C#<br>
 SQL - Queries and databasesChallenges<br>
 Exercises to improve coding skillsLearning - Notes and mini-projects</p>
 
-<h3 align="left">Bootcamps and Programs</h3>
-<p>I am currently participating in the following bootcamps and fundraising programs:</p>
-
 <h3 align="left"> &#x1F4C8 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IarahSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
