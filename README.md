@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/iara-cristina-6b3736352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bqn1kIlD%2BQxqYgOZMzinLhA%3D%3D" target="_black" rel="external">
+  <a href="https://www.linkedin.com/in/iara-cristina-6b3736352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_black" rel="external">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="mailto:iaracristinasillva2000@gmail.com" target="_black" rel="external">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
