@@ -15,6 +15,7 @@
 <h1 align= "center">Hello World, I'm Iara, be very welcome!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=C219CF&center=true&width=1000&height=100&lines=Aspiring+Full-Stack+Developer" alt="Typing SVG" /></a>
 <h3 align="left">👩‍💻  About Me</h3>
+<img width="150px" height="250px" alt="eu" src="https://github.com/user-attachments/assets/3706a252-5760-4d99-bad3-710cb0fcb721" />
 <p align= "left"> I am from São Paulo, Brazil<br>
 🎓Computer Science Student<br> 
 ⚡ Aspiring Full-Stack Developer with an interest in Web and Software Development<br> 
