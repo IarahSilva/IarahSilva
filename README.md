@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/ae0ac16a-454a-4b4e-8a47-c0a2a5b605bf" width="1000px" height="250px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A517C3&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 🎯 Focused on HTML, CSS, JavaScript, C#, and Java<br> 
 ✨ Creating projects to improve my skills and enter the job market in the best way possible.</p>
 
-<h3 align="left"> Technologies & Tools</h3>
+<h3 align="left"> 🛠️Technologies & Tools🛠️</h3>
 <div align="left">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
