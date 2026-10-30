@@ -7,7 +7,7 @@
 
   <br/>
 
-  <sub>⚡ Pika pika! Welcome to my GitHub! ♡</sub>
+  <sub>⚡ Hello! Welcome to my GitHub! ♡</sub>
 
   <h2>୨୧ 𝓘𝓪𝓻𝓪'𝓼 𝓬𝓸𝓭𝓲𝓷𝓰 𝓬𝓸𝓻𝓷𝓮𝓻 ୨୧</h2>
 
@@ -126,7 +126,11 @@ I'm continuously expanding my portfolio and improving my ability to build useful
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IarahSilva&show_icons=true&rank_icon=github&title_color=E879A9&icon_color=C44578&text_color=E8C7D6&bg_color=2B1725&hide_border=true" alt="GitHub Stats"/>
+<img
+  height="165"
+  src="https://github-stats-extended.vercel.app/api?username=IarahSilva&show_icons=true&rank_icon=github&title_color=E879A9&icon_color=C44578&text_color=E8C7D6&bg_color=2B1725&hide_border=true"
+  alt="Estatísticas do GitHub da Iara"
+/>
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarahSilva&layout=compact&title_color=E879A9&text_color=E8C7D6&bg_color=2B1725&hide_border=true" alt="Top Languages"/>
 
