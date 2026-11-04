@@ -25,7 +25,7 @@ jobs:
           github_user_name: IarahSilva
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F8C8DC&color_dots=%232B1725,%23462238,%236C2BD9,%23C44578,%23E879A9
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
