@@ -132,7 +132,11 @@ I'm continuously expanding my portfolio and improving my ability to build useful
   alt="Estatísticas do GitHub da Iara"
 />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarahSilva&layout=compact&title_color=E879A9&text_color=E8C7D6&bg_color=2B1725&hide_border=true" alt="Top Languages"/>
+  <img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarahSilva&layout=compact&langs_count=8&hide_title=false&hide_border=true&title_color=E879A9&text_color=E8C7D6&bg_color=2B1725"
+  alt="Principais linguagens de programação"
+/>
 
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IarahSilva&theme=github_dark" alt="Profile Summary"/>
 
