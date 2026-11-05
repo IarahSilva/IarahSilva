@@ -132,17 +132,38 @@ I'm continuously expanding my portfolio and improving my ability to build useful
   alt="Estatísticas do GitHub da Iara"
 />
 
-  <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarahSilva&layout=compact&langs_count=8&hide_title=false&hide_border=true&title_color=E879A9&text_color=E8C7D6&bg_color=2B1725"
-  alt="Principais linguagens de programação"
-/>
+<br>
 
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IarahSilva&theme=github_dark" alt="Profile Summary"/>
+ <h2 align="left">💗
+  Principais Linguagens
+</h2>
+
+<div align="center">
+  
+  <img
+    src="https://ghstats.dev/api/langs?username=IarahSilva&layout=donut&theme=sakura&max_langs=8&bg=2B1725&text=E8C7D6&title_color=E879A9&border_color=6C2BD9&hide_border=false"
+    height="165"
+    alt="Linguagens de programação em gráfico de rosca"
+  />
+
+  <img
+    src="https://ghstats.dev/api/langs?username=IarahSilva&layout=bar&theme=sakura&max_langs=8&bg=2B1725&text=E8C7D6&title_color=E879A9&border_color=6C2BD9&hide_border=false"
+    height="165"
+    alt="Linguagens de programação em barras"
+  />
+
+</div>
+
+<br>
+
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IarahSilva&theme=github_dark" alt="Profile Summary"/>
 
 </div>
 
 ---
+<div align="center">
+  <sub>୨୧ ━━━━━━━ ✦ ♡ ✦ ━━━━━━━ ୨୧</sub>
+</div>
 
 ## 🌸 Contribution Snake
 
